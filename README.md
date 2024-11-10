@@ -30,7 +30,7 @@ The dataset for this project comprises job postings scraped from LinkedIn using 
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Jagadeesh-N/Job-Recommendation-System-Using-Content-Based-Filtering.git
+   git@github.com:doddasakethreddy23/Advanced-Job-Recommendation-System.git
    ```
 2. Navigate to the project directory:
    ```bash
